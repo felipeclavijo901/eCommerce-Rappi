@@ -6,12 +6,13 @@ Instrucciones:
 
  - Iniciar el servicio de apache en el panel de control
  
- - Guardar la carpeta en htdocs (XAMPP)
+ - Guardar la carpeta (eCommerce), en la ruta principal del servidor apache
+ 	- Ejemplo: C://xampp/htdocs/ (XAMPP)
 
  - Iniciar el navegador web
 
  - Ir a la ruta localhost:(puerto configurado)/(Ruta archivo)
-	- ejemplo: localhost:80/eCommerce/
+	- Ejemplo: localhost:80/eCommerce/
 
  - Disfrutar!
 
